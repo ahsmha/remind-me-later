@@ -1,1 +1,5 @@
 api endpoint to handle message and save to db
+
+up & running :
+1. pip install -r requirements.txt
+2. flask run
